@@ -1,0 +1,12 @@
+Sounds/AWM.MP3
+Sounds/cursor.mp3
+Sounds/Debriefing.mp3
+Sounds/Error.mp3
+Sounds/Intro.mp3
+Sounds/Llave.mp3
+Sounds/lvl1.mp3
+Sounds/select.mp3
+Sounds/Victory.mp3
+SWF/AssetLogo.swf
+SWF/AssetBattleAnimations.swf
+SWF/AssetRange.swf
