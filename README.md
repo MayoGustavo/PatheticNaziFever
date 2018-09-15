@@ -1,4 +1,4 @@
-# PatheticNaziForever
+# PatheticNaziFever
 Silly tribute to Advanced Wars (GBA) made in AS3 and Flash
 
 About:
@@ -10,3 +10,6 @@ Notes:
 
 Tech:
 AS3/Flash.
+
+To play:
+Navigate to bin-debug folder and open PatheticNaziFever.exe
